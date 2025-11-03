@@ -3,7 +3,7 @@ Clears explorer registry values for "Music" "Videos" etc. and sets all system fo
 
 Usage
 
-1.Run with PowerShell (or run from an elevated PowerShell window). 
+1.Run the ps1 file with PowerShell (or run from an elevated PowerShell window). 
 
   1b. OR just run the .reg and restart Explorer manually
 
